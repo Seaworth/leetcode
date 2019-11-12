@@ -4,7 +4,8 @@ LeetCode
 ### LeetCode Algorithm
 
 (Notes: "&hearts;" means you need to buy a book from Leetcode)
-CPP file created by seaworth.
+
+CPP files created by Seaworth.
 
 
 | # | Title | Solution | Difficulty |
