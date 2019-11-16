@@ -71,6 +71,7 @@ CPP files created by Seaworth.
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [C++](./algorithms/cpp/maximumAverageSubarray/MaximumAverageSubarray.I.cpp), [Python](./algorithms/python/MaximumAverageSubarrayI/findMaxAverage.py), [CPP](./algorithms/cpp/643.cpp)|Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](./algorithms/python/MaximumProductOfThreeNumbers/maximumProduct.py)|Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Python](./algorithms/python/AddOneRowToTree/addOneRow.py)|Medium|
+|605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [CPP](./algorithms/cpp/605.cpp)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python](./algorithms/python/ShortestUnsortedContinuousSubarray/findUnsortedSubarray.py)|Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python](./algorithms/python/SubtreeOfAnotherTree/isSubtree.py)|Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Python](./algorithms/python/BinaryTreeTilt/findTilt.py)|Easy|
@@ -231,7 +232,7 @@ CPP files created by Seaworth.
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [C++](./algorithms/cpp/houseRobber/houseRobber.cpp), [Python](./algorithms/python/HouseRobber/rob.py)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [C++](./algorithms/cpp/numberOf1Bits/numberOf1Bits.cpp)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [C++](./algorithms/cpp/reverseBits/reverseBits.cpp)|Easy|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./algorithms/cpp/rotateArray/rotateArray.cpp), [Java](./algorithms/java/src/rotateArray/RotateArray.java)|Easy|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](./algorithms/cpp/rotateArray/rotateArray.cpp), [Java](./algorithms/java/src/rotateArray/RotateArray.java), [CPP](./algorithms/cpp/189.cpp)|Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [C++](./algorithms/cpp/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.IV.cpp)|Hard|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [C++](./algorithms/cpp/repeatedDNASequences/repeatedDNASequences.cpp)|Medium|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | [C++](./algorithms/cpp/reverseWordsInAString/reverseWordsInAString.II.cpp)|Medium|
