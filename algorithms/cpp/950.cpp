@@ -1,22 +1,22 @@
 class Solution {
 public:
     vector<int> deckRevealedIncreasing(vector<int>& deck) {
-        //思路：先排序，然后将排序好的数组，用两个指针，一个指向数组头，一个指向数组中间，将其赋值到另外一个数组中
-        if(deck.size()<=1) return deck;
+        //思路：模拟法，通过queue保存数组deck的下标，从而实现模拟卡牌取牌的过程
+        //[0,2,4,6,...]，通过pop移除已经复制的元素下标，队尾push下一个元素，就是将牌放到底部
+        //time: O(N*logN)
+        //space:O(N)
+        int len = deck.size();
+        queue<int> index;
+        for(int i=0;i<len;++i){
+            index.push(i);
+        }
+        vector<int> ret(len);
         sort(deck.begin(), deck.end());
-        vector<int> ret(deck.size());
-        int head=0;
-        for(int i=0;i<deck.size();i+=2){
-            ret[i]=deck[head++];
-        }
-        for(int i=1;i<deck.size();i+=2){
-            ret[i]=deck[head++];
-        }
-        if(deck.size()%2==1){
-            int half=deck.size()/2;
-            int tmp=ret[half];
-            ret[half]=ret[half-2];
-            ret[half-2]=tmp;
+        for(int i=0;i<len;++i){
+            ret[index.front()]=deck[i];
+            index.pop();
+            index.push(index.front());
+            index.pop();
         }
         return ret;
     }
