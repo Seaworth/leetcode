@@ -10,8 +10,7 @@ CPP files created by Seaworth.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1222|[Queens That Can Attack the King]( https://leetcode-cn.com/problems/queens-that-can-attack-the-king/ ) | 
-[CPP](./algorithms/cpp/1222.cpp) | Medium |
+|1222|[Queens That Can Attack the King](https://leetcode-cn.com/problems/queens-that-can-attack-the-king/) |[CPP](./algorithms/cpp/1222.cpp)|Medium|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [C++](./algorithms/cpp/compareStringsByFrequencyOfTheSmallestCharacter/CompareStringsByFrequencyOfTheSmallestCharacter.cpp)|Easy|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [C++](./algorithms/cpp/matrixCellsInDistanceOrder/MatrixCellsInDistanceOrder.cpp)|Easy|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [C++](./algorithms/cpp/twoCityScheduling/TwoCityScheduling.cpp)|Easy|
