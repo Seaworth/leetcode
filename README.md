@@ -74,8 +74,10 @@ CPP files created by Seaworth.
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python](./algorithms/python/MaximumProductOfThreeNumbers/maximumProduct.py)|Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Python](./algorithms/python/AddOneRowToTree/addOneRow.py)|Medium|
 |605|[Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [CPP](./algorithms/cpp/605.cpp)|Easy|
-|590|[N-ary Tree Postorder Traversal][https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/] | [CPP](./algorithms/cpp/590.cpp)|Easy|
-|589|[N-ary Tree Preorder Traversal][https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/] | [CPP](./algorithms/cpp/589.cpp)|Easy|
+
+|590|[N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [CPP](./algorithms/cpp/590.cpp)|Easy|
+|589|[N-ary Tree Postorder Traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [CPP](./algorithms/cpp/589.cpp)|Easy|
+
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Python](./algorithms/python/ShortestUnsortedContinuousSubarray/findUnsortedSubarray.py), [CPP](./algorithms/cpp/581.cpp)|Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python](./algorithms/python/SubtreeOfAnotherTree/isSubtree.py)|Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Python](./algorithms/python/BinaryTreeTilt/findTilt.py)|Easy|
