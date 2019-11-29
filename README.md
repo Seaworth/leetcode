@@ -81,7 +81,7 @@ CPP files created by Seaworth.
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Python](./algorithms/python/BinaryTreeTilt/findTilt.py)|Easy|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | [C++](./algorithms/cpp/friendCircles/FriendCircles.cpp)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](./algorithms/python/DiameterOfBinaryTree/diameterOfBinaryTree.py)|Easy|
-|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](./algorithms/python/ConvertBSTtoGreaterTree/convertBST.py)|Easy|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Python](./algorithms/python/ConvertBSTtoGreaterTree/convertBST.py), [CPP](./algorithms/cpp/538.cpp)|Easy|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Python](./algorithms/python/K-diffPairsInAnArray/findPairs.py), [CPP](./algorithms/cpp/532.cpp)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/) | [C++](./algorithms/cpp/detectCapital/DetectCapital.cpp)|Easy|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [C++](./algorithms/cpp/coinChange/CoinChange2.cpp)|Medium|
@@ -321,7 +321,7 @@ CPP files created by Seaworth.
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| [C++](./algorithms/cpp/interleavingString/interleavingString.cpp)|Hard|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [C++](./algorithms/cpp/uniqueBinarySearchTrees/uniqueBinarySearchTrees.cpp), [Python](./algorithms/python/UniqueBinarySearchTrees/numTrees.py)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [C++](./algorithms/cpp/uniqueBinarySearchTrees/uniqueBinarySearchTrees.II.cpp), [Python](./algorithms/python/UniqueBinarySearchTreesII/generateTrees.py)|Medium|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./algorithms/cpp/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [C++](./algorithms/cpp/binaryTreeInorderTraversal/binaryTreeInorderTraversal.cpp), [CPP](./algorithms/cpp/94.cpp)|Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| [C++](./algorithms/cpp/restoreIPAddresses/restoreIPAddresses.cpp)|Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [C++](./algorithms/cpp/reverseLinkedList/reverseLinkedList.II.cpp), [Java](./algorithms/java/src/reverseLinkedListII/ReverseLinkedListII.java), [Python](./algorithms/python/ReverseLinkedListII/reverseBetween.py)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](./algorithms/cpp/decodeWays/decodeWays.cpp)|Medium|
@@ -384,7 +384,7 @@ CPP files created by Seaworth.
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [C++](./algorithms/cpp/searchForRange/searchForRange.cpp), [Java](./algorithms/java/src/searchForRange/searchForRange.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](./algorithms/cpp/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp), [Java](./algorithms/java/src/searchInRotatedSortedArray/searchInRotatedSortedArray.java)|Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](./algorithms/cpp/longestValidParentheses/longestValidParentheses.cpp)|Hard|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./algorithms/cpp/nextPermutation/nextPermutation.cpp)|Medium|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](./algorithms/cpp/nextPermutation/nextPermutation.cpp), [CPP](./algorithms/cpp/31.cpp)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](./algorithms/cpp/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.cpp)|Hard|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [C++](./algorithms/cpp/divideTwoInt/divideTwoInt.cpp)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [C++](./algorithms/cpp/strStr/strStr.cpp), [Java](./algorithms/java/src/strStr/strStr.java)|Easy|
