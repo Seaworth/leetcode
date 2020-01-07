@@ -357,7 +357,7 @@ CPP files created by Seaworth.
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](./algorithms/cpp/uniquePaths/uniquePaths.cpp), [Java](./algorithms/java/src/dynamicProgramming/uniquePaths/uniquePaths.java)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](./algorithms/cpp/rotateList/rotateList.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](./algorithms/cpp/permutationSequence/permutationSequence.cpp)|Medium|
-|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](./algorithms/cpp/spiralMatrix/spiralMatrix.II.cpp)|Medium|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](./algorithms/cpp/spiralMatrix/spiralMatrix.II.cpp), [CPP](./algorithms/cpp/59.cpp) |Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C++](./algorithms/cpp/lengthOfLastWord/lengthOfLastWord.cpp), [Java](./algorithms/java/src/lengthOfLastWord/LengthOfLastWord.java)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](./algorithms/cpp/insertInterval/insertInterval.cpp)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](./algorithms/cpp/mergeIntervals/mergeIntervals.cpp), [CPP](./algorithms/cpp/56.cpp)|Hard|
