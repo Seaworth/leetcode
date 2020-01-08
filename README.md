@@ -338,7 +338,7 @@ CPP files created by Seaworth.
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](./algorithms/cpp/searchInRotatedSortedArray/searchInRotatedSortedArray.II.cpp)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](./algorithms/cpp/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.II.cpp)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| [C++](./algorithms/cpp/wordSearch/wordSearch.cpp)|Medium|
-|78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./algorithms/cpp/subsets/subsets.cpp), [Java](./algorithms/java/src/subsets/subsets.java), [Python](./algorithms/python/Subsets/subsets.py)|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)| [C++](./algorithms/cpp/subsets/subsets.cpp), [Java](./algorithms/java/src/subsets/subsets.java), [Python](./algorithms/python/Subsets/subsets.py), [CPP](./algorithms/cpp/78.cpp)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)| [C++](./algorithms/cpp/combinations/combinations.cpp)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [C++](./algorithms/cpp/minimumWindowSubstring/minimumWindowSubstring.cpp)|Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [C++](./algorithms/cpp/sortColors/sortColors.cpp)|Medium|
