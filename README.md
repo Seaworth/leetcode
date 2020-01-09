@@ -370,7 +370,7 @@ CPP files created by Seaworth.
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)| [C++](./algorithms/cpp/anagrams/GroupAnagrams.cpp)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](./algorithms/cpp/rotateImage/rotateImage.cpp), [CPP](./algorithms/cpp/48.cpp)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](./algorithms/cpp/permutations/permutations.II.cpp)|Hard|
-|46|[Permutations](https://leetcode.com/problems/permutations/)| [C++](./algorithms/cpp/permutations/permutations.cpp)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)| [C++](./algorithms/cpp/permutations/permutations.cpp),  [CPP](./algorithms/cpp/46.cpp)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](./algorithms/cpp/jumpGame/jumpGame.II.cpp)|Hard|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [C++](./algorithms/cpp/wildcardMatching/wildcardMatching.cpp)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](./algorithms/cpp/multiplyStrings/multiplyStrings.cpp)|Medium|
